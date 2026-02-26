@@ -1,0 +1,37 @@
+# CrewAI and related
+crewai==0.130.0
+crewai-tools==0.47.1
+
+# Web Framework
+fastapi==0.110.3
+uvicorn[standard]==0.27.0
+
+# LLM and Language Model Libraries
+openai==1.30.5
+google-generativeai==0.5.4
+langchain-core==0.1.52
+langchain==0.1.52
+langchain-community==0.0.28
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Data Processing
+pandas==2.2.2
+numpy==1.26.4
+
+# PDF Processing
+pypdf==3.17.1
+
+# System & API
+click==8.1.7
+requests==2.31.0
+
+# Logging and Monitoring
+aiofiles==23.2.1
+
+# Additional CrewAI dependencies
+jinja2==3.1.4
+jsonschema==4.22.0
